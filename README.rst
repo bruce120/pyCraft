@@ -37,12 +37,7 @@ pyCraft is compatible with the following Minecraft releases:
 
 Usage
 
-``
-virtualenv ENV
-source ENV/bin/activate
-pip install -r requirements.txt
-``
-
+``virtualenv ENV source ENV/bin/activate pip install -r requirements.txt``
 
 In addition, some development snapshots and pre-release versions are supported:
 `<minecraft/__init__.py>`_ contains a full list of supported Minecraft versions
